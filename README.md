@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raunak Gurud</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakgurud09&label=Profile%20views&color=0e75b6&style=flat" alt="raunakgurud09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raunakgurud09" alt="raunakgurud09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/raunakgurud" target="blank"><img src="https://img.shields.io/twitter/follow/raunakgurud?logo=twitter&style=for-the-badge" alt="raunakgurud" /></a> </p>
-
 - 🔭 I’m currently working on **Backend projects**
 
 - 🌱 I’m currently learning **Docker,Devops**
@@ -15,7 +9,7 @@
 
 - 📫 How to reach me **raunakgurud2121@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1a97i8G9oONyZZWd5yBLBuVvM7E_lbpITCL4hbRzIbmc/edit?usp=sharing](https://docs.google.com/document/d/1a97i8G9oONyZZWd5yBLBuVvM7E_lbpITCL4hbRzIbmc/edit?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/raunakResume](https://bit.ly/raunakResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
