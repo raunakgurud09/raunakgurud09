@@ -17,9 +17,3 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raunak-gurud-3b8261205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raunak-gurud-3b8261205/" height="30" width="40" /></a>
 <a href="https://instagram.com/raunak_gurud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak_gurud" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunakgurud09&show_icons=true&locale=en&layout=compact" alt="raunakgurud09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunakgurud09&show_icons=true&locale=en" alt="raunakgurud09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunakgurud09&" alt="raunakgurud09" /></p>
