@@ -16,8 +16,8 @@
 - 📄 Know about my experiences [https://bit.ly/raunakResume](https://bit.ly/raunakResume)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@raunakgurud09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@raunakgurud09" height="30" width="40" /></a>
+<!-- <p align="left">
+<a href="https://dev.to/@raunakgurud09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@raunakgurud09" height="30" width="40" /></a> -->
 <a href="https://twitter.com/raunakgurud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raunakgurud" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raunak-gurud-3b8261205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raunak-gurud-3b8261205/" height="30" width="40" /></a>
 <a href="https://instagram.com/raunak_gurud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak_gurud" height="30" width="40" /></a>
