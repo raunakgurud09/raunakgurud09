@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raunakgurud2121@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/raunakResume](https://drive.google.com/file/d/1BXvhZBsxg8p6bzQYAvzksV127jsylKOQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BXvhZBsxg8p6bzQYAvzksV127jsylKOQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
