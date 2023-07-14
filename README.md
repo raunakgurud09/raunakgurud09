@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Backend projects**
 
-- 🌱 I’m currently learning **Docker,Devops**
-
-- 👨‍💻 All of my projects are available at [https://raunakgurud.netlify.app/](https://raunakgurud.netlify.app/)
+- 🌱 I’m currently learning **Devops**
 
 - 📝 I regularly write articles on [https://blog.raunakgurud.com](https://blog.raunakgurud.com)
 
 - 📫 How to reach me **raunakgurud2121@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/raunakResume](https://bit.ly/raunakResume)
+- 📄 Know about my experiences [https://bit.ly/raunakResume](https://drive.google.com/file/d/1BXvhZBsxg8p6bzQYAvzksV127jsylKOQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
