@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://blog.raunakgurud.com](https://blog.raunakgurud.com)
+- 📝 I regularly write articles on [hashnode](https://raunakgurud.hashnode.dev)
 
 - 📫 How to reach me **raunakgurud2121@gmail.com**
 
